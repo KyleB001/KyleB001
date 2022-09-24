@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KyleB001
 - 📚 I'm a 4th year computer science student @ University of Glasgow
-- 💻 I'm currently working as an intern at arista networks
-- 👀 I’m interested in expanding my mindset and learning as much as possible :)
-- 🌱 I’m currently learning Python, Java and Javscript 
+- 💻 Previously working as an intern at arista networks on EOS + team
+- 👀 I’m interested in developing my self into a better software engineer
+- 🌱 I’m currently Working mainly with: Python, Java and Javscript 
 - 📫 How to reach me: 
   kylebuchanan001@gmail.com
 
