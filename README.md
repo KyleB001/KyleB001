@@ -2,7 +2,7 @@
 - 📚 I'm a 4th year computer science student @ University of Glasgow
 - 💻 Previously working as an intern at arista networks on EOS + team
 - 👀 I’m interested in developing my self into a better software engineer
-- 🌱 I’m currently Working mainly with: Python, Java and Javscript 
+- 🌱 I’m currently Working mainly with: Python, C, Javscript and Java 
 - 📫 How to reach me: 
   kylebuchanan001@gmail.com
 
